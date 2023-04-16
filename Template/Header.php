@@ -13,9 +13,9 @@
 
 </head>
 <body>
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
+<nav class="navbar navbar-expand-lg bg-body-tertiary ">
       <div class="container-fluid">
-        <a class="navbar-brand" href="Main\Main.php"><img src=".../Img/icon.png" alt=""/></a>
+        <a class="navbar-brand" href="Main\Main.php"><img src="" alt=""/></a>
         <button
           class="navbar-toggler"
           type="button"
@@ -34,9 +34,6 @@
             </li>
             <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="/Teste/Template/recipe.php">Registro</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Contato</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">Favoritos</a>
